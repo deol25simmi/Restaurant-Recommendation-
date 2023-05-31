@@ -42,12 +42,17 @@ The recommendation system is built using the TF-IDF (Term Frequency-Inverse Docu
 
 The recommendation system works as follows:
  1.Preprocess the restaurant descriptions by removing stop words, punctuation, and performing text normalization.
+ 
  2.Vectorize the preprocessed restaurant descriptions using TF-IDF vectorization.
+ 
  3.Calculate the cosine similarity between the TF-IDF vectors to find similar restaurants.
+ 
  4.Given a restaurant, retrieve the top N most similar restaurants based on cosine similarity scores.
+ 
 
 # Results
 The recommendation system provides a list of top N similar restaurants based on the selected restaurant. Users can adjust the value of N to customize the number of recommendations they want to receive. The recommendations are based on the similarity of restaurant descriptions.
+Another feature is also present which is a recommendation system based on Type of food. It recommends restaurants based on the food category.
 
 
 
