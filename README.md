@@ -6,20 +6,35 @@ The "Pune Restaurants Dataset" is a comprehensive collection of restaurant data 
 The dataset consists of several features that offer insights into the restaurants' attributes, such as their names, locations, cuisines, average costs for two people, user ratings, and more. It is a valuable resource for data analysts, researchers, and enthusiasts who are interested in exploring the restaurant scene in Pune or studying the dining preferences of its residents.
 
 The features of the dataset are:
+
 1.Restaurant_Name
+
 2.Category	
-3.Pricing_for_2	
+
+3.Pricing_for_2
+
 4.Locality	
+
 5.Dining_Rating	
+
 6.Dining_Review_Count	
+
 7.Delivery_Rating	
+
 8.Delivery_Rating_Count	
+
 9.Website	
+
 10.Address	
+
 11.Phone_No	
+
 12.Latitude	
+
 13.Longitude	
-14.Known_for1	
+
+14.Known_for1
+
 15.Known_for2
 
 # Methodology
